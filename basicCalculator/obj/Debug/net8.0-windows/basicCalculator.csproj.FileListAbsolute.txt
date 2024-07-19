@@ -1,0 +1,17 @@
+C:\Users\Adorján\Documents\homeProjects\basicCalculator\basicCalculator\bin\Debug\net8.0-windows\basicCalculator.exe
+C:\Users\Adorján\Documents\homeProjects\basicCalculator\basicCalculator\bin\Debug\net8.0-windows\basicCalculator.deps.json
+C:\Users\Adorján\Documents\homeProjects\basicCalculator\basicCalculator\bin\Debug\net8.0-windows\basicCalculator.runtimeconfig.json
+C:\Users\Adorján\Documents\homeProjects\basicCalculator\basicCalculator\bin\Debug\net8.0-windows\basicCalculator.dll
+C:\Users\Adorján\Documents\homeProjects\basicCalculator\basicCalculator\bin\Debug\net8.0-windows\basicCalculator.pdb
+C:\Users\Adorján\Documents\homeProjects\basicCalculator\basicCalculator\obj\Debug\net8.0-windows\basicCalculator.Form1.resources
+C:\Users\Adorján\Documents\homeProjects\basicCalculator\basicCalculator\obj\Debug\net8.0-windows\basicCalculator.csproj.GenerateResource.cache
+C:\Users\Adorján\Documents\homeProjects\basicCalculator\basicCalculator\obj\Debug\net8.0-windows\basicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adorján\Documents\homeProjects\basicCalculator\basicCalculator\obj\Debug\net8.0-windows\basicCalculator.AssemblyInfoInputs.cache
+C:\Users\Adorján\Documents\homeProjects\basicCalculator\basicCalculator\obj\Debug\net8.0-windows\basicCalculator.AssemblyInfo.cs
+C:\Users\Adorján\Documents\homeProjects\basicCalculator\basicCalculator\obj\Debug\net8.0-windows\basicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Adorján\Documents\homeProjects\basicCalculator\basicCalculator\obj\Debug\net8.0-windows\basicCalculator.sourcelink.json
+C:\Users\Adorján\Documents\homeProjects\basicCalculator\basicCalculator\obj\Debug\net8.0-windows\basicCalculator.dll
+C:\Users\Adorján\Documents\homeProjects\basicCalculator\basicCalculator\obj\Debug\net8.0-windows\refint\basicCalculator.dll
+C:\Users\Adorján\Documents\homeProjects\basicCalculator\basicCalculator\obj\Debug\net8.0-windows\basicCalculator.pdb
+C:\Users\Adorján\Documents\homeProjects\basicCalculator\basicCalculator\obj\Debug\net8.0-windows\basicCalculator.genruntimeconfig.cache
+C:\Users\Adorján\Documents\homeProjects\basicCalculator\basicCalculator\obj\Debug\net8.0-windows\ref\basicCalculator.dll
